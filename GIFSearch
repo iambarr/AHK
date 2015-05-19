@@ -1,0 +1,8 @@
+Capslock::
+{
+Send, ^c
+sleep 200
+Run, http://www.google.com/search?q=%Clipboard%&espv=2&biw=1128&bih=711&source=lnms&tbm=isch&sa=X&ei=s3VbVaqZG-TasASmuYGYAQ&ved=0CAcQ_AUoAQ#q=%Clipboard%&tbm=isch&tbs=itp:animated
+
+}
+Return
